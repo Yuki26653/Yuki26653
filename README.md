@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I’m Haochen 👋
 
-<!--
-**Yuki26653/Yuki26653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student with a strong interest in:
+- Software Engineering
+- Applied AI / Machine Learning
+- Software–Hardware Integration
 
-Here are some ideas to get you started:
+💻 Technical Focus
+- Python (data structures, game logic, basic ML)
+- Git & Linux workflow
+- Currently learning: PyTorch and neural network fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+- **2048 Game (Python)**  
+  Grid-based game logic, state transitions, and edge-case handling  
+- **Minesweeper (Python)**  
+  Recursive algorithms, 2D grid structures, and game state management  
+- **PyTorch Learning Lab** *(in progress)*  
+  Hands-on experiments while learning ML fundamentals
+
+🚀 Engineering Mindset
+I focus on building small but complete projects, understanding
+the underlying logic, and improving code quality through iteration.
+
+📫 Open to
+- Software / AI internships
+- Early-stage startups
+- Engineering roles with strong learning opportunities
